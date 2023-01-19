@@ -3,8 +3,10 @@ import "../../assets/styles/header.css"
 function Header() {
     return (  
         <header>
-
-            <h1>Curriculum vitae</h1>
+            <div>
+            <img src="//src/assets/IMG_4230.JPG" alt="" />
+            </div>
+            <h1>David Ruiz </h1>
         </header>
     );
 }
