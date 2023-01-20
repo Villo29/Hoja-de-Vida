@@ -1,9 +1,46 @@
 header{
-    border: 3px rgb(0, 0, 0) solid;
+    border: 5px rgb(0, 0, 0) solid;
     display: flex;
-    justify-content: center;
-    background-color: rgb(226, 162, 162);
+    background-color: #124A7A;
     font-size: 20px;
 font-family: 'Times New Roman', Times, serif;
     text-shadow: 10%;
+    height: 160px;
 }
+
+
+.name{
+    position: absolute;
+    width: 436px;
+    height: 81px;
+    left: 259px;
+    top: 12px;
+}
+
+.foto{
+    
+    position: absolute;
+    width: 143px;
+    height: 147px;
+    left: 85px;
+    top: 12px;
+    margin-top: -4px;
+    background: url(/src/assets/david.png);
+    }
+
+
+    .subn{
+position: absolute;
+width: 341px;
+height: 41px;
+left: 200px;
+top: 50px;
+
+font-family: 'RocknRoll One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+
+color: #000000;
+    }

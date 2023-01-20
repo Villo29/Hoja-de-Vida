@@ -1,12 +1,15 @@
 import "../../assets/styles/header.css"
+import DAVID from  "../../assets//images/david.png"
+
 
 function Header() {
     return (  
-        <header>
+        <header >
             <div>
-            <img src="//src/assets/IMG_4230.JPG" alt="" />
+            <img src={DAVID} className="foto" alt="" />
             </div>
-            <h1>David Ruiz </h1>
+            <h1 className="name">Jesus David Ruiz Garcia</h1>
+            <h3 className="subn">Desarrollador Junior</h3>
         </header>
     );
 }

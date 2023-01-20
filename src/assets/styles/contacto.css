@@ -1,0 +1,70 @@
+.contacto{
+    position: absolute;
+    width: 750px;
+    height: 270px;
+    left: 720px;
+    top: 193px;
+    border: 5px rgb(30, 28, 28) solid;
+
+    background: #157499;
+}
+
+
+#contac{
+    position: absolute;
+    width: 349px;
+    height: 51px;
+    left: 194px;
+    margin-top: 0%;
+
+    font-family: 'Montaga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+
+#txt1{
+    position: absolute;
+    margin-top: 8%;
+    text-align: start;
+    font-family: 'Montaga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 44px;
+    color: #FFFFFF;
+
+
+}
+
+
+#git{
+    position: absolute;
+    width: 314px;
+    height: 26px;
+    left: 675px;
+    top: 117px;
+
+    font-family: 'Kokoro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+
+
+.foto1{
+    position: absolute;
+    width: 174px;
+    height: 174px;
+    left: 10%;
+    top: 194px;
+    margin-top: -20%;
+    left: 70%;
+
+}

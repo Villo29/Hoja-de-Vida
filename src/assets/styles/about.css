@@ -1,0 +1,40 @@
+.about{
+    position: absolute;
+    width: 705px;
+    height: 270px;
+    left: 0px;
+    top: 193px;
+    border: 5px rgb(30, 28, 28) solid;
+
+    background: #157499;
+}
+
+#aboutme{
+    position: absolute;
+    width: 349px;
+    height: 51px;
+    left: 194px;
+    margin-top: 2%;
+
+    font-family: 'Montaga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+#txt{
+    position: absolute;
+    width: 602px;
+    height: 142px;
+    left: 15px;
+    margin-top: 14%;
+    text-align: justify;
+    font-family: 'Montaga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
