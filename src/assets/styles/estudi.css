@@ -7,3 +7,79 @@
     border: 5px black solid;
     background: #71AEC6;
 }
+
+
+#estio{
+    position: absolute;
+    width: 134px;
+    height: 27px;
+    left: 59px;
+    margin: -15px;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+}
+
+#primaria{
+    position: absolute;
+    width: 252px;
+    height: 18px;
+    left: 13px;
+    margin-top: 7%;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+/* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#secundaria{
+    position: absolute;
+    width: 280px;
+    height: 20px;
+    left: 11px;
+    margin-top: 12%;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#prepa{
+    position: absolute;
+    width: 234px;
+    height: 18px;
+    left: -15%;
+    margin: 17%;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+/* identical to box height */
+    color: #FFFFFF;
+}
+
+#uni{
+    position: absolute;
+    width: 382px;
+    height: 18px;
+    left: 8px;
+    margin-top: 23%;
+    font-family: 'Abhaya Libre';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
