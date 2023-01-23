@@ -1,5 +1,6 @@
 import "../../assets/styles/contacto.css"
 import  qr  from "../../assets/images/qr.png"
+import { data } from "../../assets/data/data";
 
 function Contacto() {
     return (  
@@ -9,9 +10,9 @@ function Contacto() {
                 Contacto
                 </h1>
                 <h3 id="txt1">
-                Correo: jesuruga@gmail.com <br /> 
+                {data.contacto.contacto2}<br /> 
                 <br />
-                Telefono: 961-439-7418
+                {data.contacto.contacto1}
                 </h3>
                 </div>
                 <img src={qr} className="foto1" alt="" />

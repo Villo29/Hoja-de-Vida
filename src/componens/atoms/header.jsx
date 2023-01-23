@@ -5,6 +5,7 @@ import DAVID from  "../../assets//images/david.png"
 function Header() {
     return (  
         <header >
+            
             <div>
             <img src={DAVID} className="foto" alt="" />
             </div>
