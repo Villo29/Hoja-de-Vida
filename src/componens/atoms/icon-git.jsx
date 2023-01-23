@@ -6,7 +6,10 @@ function Git() {
     return ( 
 
         <div>
+            <a href="https://github.com/Villo29">
             <img src={git1} className="git" />
+            </a>
+            
         </div>
      );
 }
