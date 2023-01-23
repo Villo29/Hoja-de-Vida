@@ -11,16 +11,16 @@ function Estudie() {
               <h2>Estudios</h2>
             </div>
             <div id="primaria">
-        <h1 id="primaria">{data.estudios.escuela2}{data.estudios.periodo2}</h1>
+        <h1 id="primaria">{data.estudios.primaria}{data.estudios.primaria1}</h1>
             </div>
             <div id="secundaria">
-            <h1 id="secundaria">{data.estudios.escuela4}{data.estudios.periodo4}</h1>
+            <h1 id="secundaria">{data.estudios.secun}{data.estudios.secun1}</h1>
             </div>
             <div id="prepa">
-            <h1 id="prepa">{data.estudios.escuela3}{data.estudios.periodo3}</h1>
+            <h1 id="prepa">{data.estudios.prepa}{data.estudios.prepa1}</h1>
             </div>
             <div id="uni">
-            <h1 id="uni">{data.estudios.escuela1}{data.estudios.periodo1}</h1>
+            <h1 id="uni">{data.estudios.uni}{data.estudios.uni1}</h1>
             </div>
         </div>
       );

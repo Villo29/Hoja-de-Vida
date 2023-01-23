@@ -10,9 +10,9 @@ function Contacto() {
                 Contacto
                 </h1>
                 <h3 id="txt1">
-                {data.contacto.contacto2}<br /> 
+                {data.contacto.correo}<br /> 
                 <br />
-                {data.contacto.contacto1}
+                {data.contacto.numero}
                 </h3>
                 </div>
                 <img src={qr} className="foto1" alt="" />
