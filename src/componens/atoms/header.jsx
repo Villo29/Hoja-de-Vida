@@ -6,7 +6,7 @@ function Header() {
     return (  
         <header >
             
-            <div>
+            <div id="imgheader">
             <img src={DAVID} className="foto" alt="" />
             </div>
             <h1 className="name">Jesus David Ruiz Garcia</h1>
